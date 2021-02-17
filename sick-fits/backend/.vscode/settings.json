@@ -1,5 +1,6 @@
 {
   "workbench.colorCustomizations": {
+<<<<<<< HEAD
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveForeground": "#e7e7e799",
     "titleBar.activeBackground": "#ff2c70",
@@ -16,4 +17,23 @@
     "statusBarItem.hoverBackground": "#ff5f93"
   },
   "peacock.color": "#FF2C70"
+=======
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveForeground": "#ffffffcc",
+    "titleBar.activeBackground": "#FF2C70",
+    "titleBar.inactiveBackground": "#FF2C70CC"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.disableLanguages": ["javascript", "javascriptreact"]
+>>>>>>> a46fbac55ca82cfae35433c010303784a7b3ac3d
 }
